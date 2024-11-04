@@ -89,4 +89,3 @@ The improved prompt is more effective because it:
 2. Specifies the context (database management).
 3. Requests examples, ensuring a thorough explanation.
 
-This leads to a more targeted, informative, and contextually relevant AI response.
